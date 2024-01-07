@@ -13,25 +13,25 @@
   - ...rest - 🎓
   - typeof - 🖐️
   - destructuring - 🖐️
-  - generator - 👂
-  - iterator - 🎓
-  - async generator - 👂
-  - async iterator - 👂
-  - chaining - 🎓
-  - optional chaining - 🖐️
+  - generator
+  - iterator
+  - async generator
+  - async iterator
+  - chaining
+  - optional chaining\
   - IIFE
   - global - 👂
   - globalThis - 👂
   - window - 🎓
   - getters and setters - 🎓
-  - __proto__ - 👂
-  - prototype - 👂
+  - __proto__
+  - prototype
   - equality operators - 🖐️
   - logical operators - 🖐️
   - bitwise operators - 🖐️
   - ternary operator - 🖐️
   - void - 🎓
-  - yield - 🎓
+  - yield
   - await - 🖐️
   - template literal - 🖐️
   - strict mode - 🎓
@@ -45,20 +45,20 @@
   - while - 🖐️
   - do..while - 🎓
   - for - 🖐️
-  - for..in - 🎓
-  - for..of - 🎓
-  - for await - 👂
-  - throw - 👂
+  - for..in
+  - for..of
+  - for await
+  - throw
   - break - 🖐️
   - continue - 🖐️
   - import - 🖐️
   - export - 🖐️
-  - label - 👂
+  - label
   - try..catch
   - switch - 🎓
   - class - 🎓
-  - new Error - 🎓
-  - with - 👂
+  - new Error
+  - with
 - Functions
   - function declaration - 👂
   - function expression - 👂
@@ -67,23 +67,23 @@
   - functional object - 👂
 - Data structures
   - Array - 🖐️
-  - mixin - 👂
-  - extend - 👂
-  - typed arrays - 👂
+  - mixin
+  - extend
+  - typed arrays
   - Map - 🖐️
   - Set - 👂
   - undefined - 🖐️
   - null - 🖐️
-  - Proxy - 👂
-  - weak collections - 👂
-  - timers - 🎓
-  - EventEmitter - 🎓
-  - RegExp - 👂
+  - Proxy
+  - weak collections
+  - timers
+  - EventEmitter
+  - RegExp
   - Date - 🖐️
   - BigInt - 🎓
 - Infrastructure
   - V8
-  - Node.js - 🎓
-  - npm - 🖐️
+  - Node.js 
+  - npm
   - prettier
   - MDN

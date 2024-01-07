@@ -7,7 +7,7 @@
   - async function - 🖐️
   - call - 🎓
   - bind - 🎓
-  - apply - 🎓
+  - apply - 👂
   - instanceof - 👂
   - ...spread - 🖐️
   - ...rest - 🎓

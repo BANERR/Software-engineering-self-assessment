@@ -45,20 +45,20 @@
   - while - 🖐️
   - do..while - 🎓
   - for - 🖐️
-  - for..in - 🎓
-  - for..of - 🎓
-  - for await - 👂
-  - throw - 👂
+  - for..in
+  - for..of
+  - for await
+  - throw
   - break - 🖐️
   - continue - 🖐️
   - import - 🖐️
   - export - 🖐️
-  - label - 👂
+  - label
   - try..catch
   - switch - 🎓
   - class - 🎓
-  - new Error - 🎓
-  - with - 👂
+  - new Error
+  - with
 - Functions
   - function declaration - 👂
   - function expression - 👂
@@ -67,9 +67,9 @@
   - functional object - 👂
 - Data structures
   - Array - 🖐️
-  - mixin - 👂
-  - extend - 👂
-  - typed arrays - 👂
+  - mixin
+  - extend
+  - typed arrays
   - Map - 🖐️
   - Set - 🖐️
   - undefined - 🖐️
@@ -83,7 +83,7 @@
   - BigInt - 🖐️
 - Infrastructure
   - V8
-  - Node.js - 🎓
-  - npm - 🖐️
+  - Node.js 
+  - npm
   - prettier
   - MDN

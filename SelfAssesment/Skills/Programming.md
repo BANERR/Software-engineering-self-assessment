@@ -44,14 +44,14 @@
   - callback - 🖐️
   - listener - 🖐️
   - compose - 🎓
-  - pipe - 👂
+  - pipe
   - memoize - 👂
   - wrapper - 👂
   - functor - 🖐️
-  - monad - 👂
-  - monoid - 👂
-  - generator - 👂
-  - coroutine - 👂
+  - monad
+  - monoid
+  - generator
+  - coroutine
 - Data structures
   - array - 🖐️
   - structure - 🖐️
@@ -63,15 +63,15 @@
   - collection - 🖐️
   - set - 🖐️
   - hash table - 🖐️
-  - linked list - 👂
-  - doubly list - 👂
-  - unrolled list - 👂
-  - circular list - 👂
-  - queue - 👂
-  - stack - 👂
-  - deque - 👂
-  - tree - 👂
-  - graph - 👂
+  - linked list
+  - doubly list 
+  - unrolled list
+  - circular list
+  - queue
+  - stack
+  - deque 
+  - tree
+  - graph
   - iterator - 🎓
   - mutable state - 🖐️
   - immutable state - 🖐️
@@ -79,22 +79,22 @@
   - string parsing - 🖐️
 - Process & style
   - compiler - 🎓
-  - transpiler - 👂
-  - linter - 🖐️
+  - transpiler
+  - linter
   - polyfill - 🖐️
   - debugger - 👂
   - garbage collection - 👂
   - refactoring - 🖐️
   - code review - 🖐️
   - antipatterns
-  - paradigm - 👂
+  - paradigm
   - algorithm - 🖐️
   - magic numbers - 🖐️
   - hardcode - 🖐️
   - complexity - 👂
   - decomposition - 🖐️
   - spaghetti - 👂
-  - silver bullet - 👂
+  - silver bullet
   - not invented here - 👂
   - dead code - 👂
   - unreachable code - 👂

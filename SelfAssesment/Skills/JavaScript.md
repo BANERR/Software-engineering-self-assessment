@@ -5,7 +5,7 @@
   - this - 🎓
   - arrow function - 🖐️
   - async function - 🖐️
-  - call - 🎓
+  - call - 🖐️
   - bind - 🎓
   - apply - 👂
   - instanceof - 👂
@@ -13,8 +13,8 @@
   - ...rest - 🎓
   - typeof - 🖐️
   - destructuring - 🖐️
-  - generator - 👂
-  - iterator - 🎓
+  - generator - 🖐️
+  - iterator - 🖐️
   - async generator - 👂
   - async iterator - 👂
   - chaining - 🎓
@@ -23,14 +23,14 @@
   - global - 👂
   - globalThis - 👂
   - window - 🎓
-  - getters and setters - 🎓
+  - getters and setters - 🖐️
   - __proto__ - 👂
   - prototype - 👂
   - equality operators - 🖐️
   - logical operators - 🖐️
   - bitwise operators - 🖐️
   - ternary operator - 🖐️
-  - void - 🎓
+  - void - 🖐️
   - yield - 🎓
   - await - 🖐️
   - template literal - 🖐️
@@ -71,16 +71,16 @@
   - extend - 👂
   - typed arrays - 👂
   - Map - 🖐️
-  - Set - 👂
+  - Set - 🖐️
   - undefined - 🖐️
   - null - 🖐️
   - Proxy - 👂
   - weak collections - 👂
-  - timers - 🎓
+  - timers - 🖐️
   - EventEmitter - 🎓
   - RegExp - 👂
   - Date - 🖐️
-  - BigInt - 🎓
+  - BigInt - 🖐️
 - Infrastructure
   - V8
   - Node.js - 🎓

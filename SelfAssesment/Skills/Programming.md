@@ -61,7 +61,7 @@
   - object - 🖐️
   - class - 🎓
   - collection - 🖐️
-  - set - 🎓
+  - set - 🖐️
   - hash table - 🖐️
   - linked list - 👂
   - doubly list - 👂
@@ -90,7 +90,7 @@
   - paradigm - 👂
   - algorithm - 🖐️
   - magic numbers - 🖐️
-  - hardcode - 🎓
+  - hardcode - 🖐️
   - complexity - 👂
   - decomposition - 🖐️
   - spaghetti - 👂

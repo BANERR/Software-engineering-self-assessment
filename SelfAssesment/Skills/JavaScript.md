@@ -5,33 +5,33 @@
   - this - 🎓
   - arrow function - 🖐️
   - async function - 🖐️
-  - call - 🎓
+  - call - 🖐️
   - bind - 🎓
-  - apply - 🎓
+  - apply - 👂
   - instanceof - 👂
   - ...spread - 🖐️
   - ...rest - 🎓
   - typeof - 🖐️
   - destructuring - 🖐️
-  - generator
-  - iterator
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining\
+  - generator - 🖐️
+  - iterator - 🖐️
+  - async generator - 👂
+  - async iterator - 👂
+  - chaining - 🎓
+  - optional chaining - 🖐️
   - IIFE
   - global - 👂
   - globalThis - 👂
   - window - 🎓
-  - getters and setters - 🎓
-  - __proto__
-  - prototype
+  - getters and setters - 🖐️
+  - __proto__ - 👂
+  - prototype - 👂
   - equality operators - 🖐️
   - logical operators - 🖐️
   - bitwise operators - 🖐️
   - ternary operator - 🖐️
-  - void - 🎓
-  - yield
+  - void - 🖐️
+  - yield - 🎓
   - await - 🖐️
   - template literal - 🖐️
   - strict mode - 🎓
@@ -71,16 +71,16 @@
   - extend
   - typed arrays
   - Map - 🖐️
-  - Set - 👂
+  - Set - 🖐️
   - undefined - 🖐️
   - null - 🖐️
-  - Proxy
-  - weak collections
-  - timers
-  - EventEmitter
-  - RegExp
+  - Proxy - 👂
+  - weak collections - 👂
+  - timers - 🖐️
+  - EventEmitter - 🎓
+  - RegExp - 👂
   - Date - 🖐️
-  - BigInt - 🎓
+  - BigInt - 🖐️
 - Infrastructure
   - V8
   - Node.js 
